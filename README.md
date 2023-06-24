@@ -20,6 +20,9 @@
 
 ### :fire: My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YASHAVARDHAN-SG&theme=dark&background=000000)](https://git.io/streak-stats)
+---
+
+### :hammer_and_wrench: Languages and Tools :
 <div align="center">
  <a href="https://www.w3schools.com/c/c_intro.php"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
    <a href="https://github.com/YASHAVARDHAN-SG"/><img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="github" alt="github" width="40" height="40"/>&nbsp;
