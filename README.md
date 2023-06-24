@@ -20,7 +20,7 @@
 ****
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YASHAVARDHAN-SG&theme=radical&mode=weekly)](https://git.io/streak-stats) 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YASHAVARDHAN-SG&theme=radical&mode=weekly)](https://git.io/streak-stats) &nbsp;
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ****
 
