@@ -20,7 +20,7 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope:I'm the student studying in at.
+- :telescope:I'm the student studying in at :books:Alvas Insitute of engineering and Technology.
 
 - :seedling: Exploring Technical techincal Knowledge about C program,java,python,HTML.
 
