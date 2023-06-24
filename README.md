@@ -20,7 +20,7 @@
 
 
 ### :woman_technologist: About Me :
-- :telescope:I'm the student studying in at <a href="https://www.aiet.org.in/" alt ="Alvas insitute of engineering and technology" title="ALVAS INSITUTE OF ENGINEERING AND TECHNOLOGY"/>.
+- :telescope:I'm the student studying in at.
 
 - :seedling: Exploring Technical techincal Knowledge about C program,java,python,HTML.
 
