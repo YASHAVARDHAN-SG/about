@@ -16,7 +16,9 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
-****
+
+
+
 ### :woman_technologist: About Me :
 - :telescope:I'm the student studying in at <a href="https://www.aiet.org.in/" alt ="Alvas insitute of engineering and technology" title="ALVAS INSITUTE OF ENGINEERING AND TECHNOLOGY"/>.
 
