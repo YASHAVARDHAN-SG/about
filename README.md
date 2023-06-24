@@ -20,10 +20,23 @@
 ****
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YASHAVARDHAN-SG&theme=radical&mode=weekly)](https://git.io/streak-stats) &nbsp;
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=YASHAVARDHAN-SG&theme=radical&mode=weekly)](https://git.io/streak-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 ****
+****
 
+### :woman_technologist: About Me :
+- :telescope:I'm the student studying in at <a href="https://www.aiet.org.in/" alt ="Alvas insitute of engineering and technology" title="ALVAS INSITUTE OF ENGINEERING AND TECHNOLOGY"/>.
+
+- :seedling: Exploring Technical techincal Knowledge about C program,java,python,HTML.
+
+- :zap: Fun fact I am an Introvert Physically and an Extrovert Virtually :sunglasses::sunglasses:
+  
+- :email: How to reach me yashavardhansg@gmail.com
+
+- :receipt: Ask me about C, Java, , HTML and CSS
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/yashavardhan-sg-781594213)
 ### :hammer_and_wrench: Languages and Tools :
 <div align="center">
  <a href="https://www.w3schools.com/c/c_intro.php"/> <img src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="40" height="40"/>&nbsp;
